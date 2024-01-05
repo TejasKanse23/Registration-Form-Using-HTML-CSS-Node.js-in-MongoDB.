@@ -1,9 +1,9 @@
 # Registration-Form-Using-HTML-CSS-Node.js-in-MongoDB.
 
-### Project Overview
+## Project Overview
 Welcome to the User Registration System, a web app using HTML, CSS, Node.js, and MongoDB for seamless user sign-up and data storage.
 
-#### Features
+### Features
 User-Friendly Form:
 
 Intuitive registration form with HTML/CSS.
